@@ -1,0 +1,16 @@
+{
+  "name": "testRP",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "devDependencies": {
+    "sass": "^1.26.11",
+    "sass-loader": "^10.0.2"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.6",
+    "vue": "^2.6.12",
+    "vuex": "^3.5.1"
+  }
+}
